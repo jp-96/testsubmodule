@@ -1,0 +1,3 @@
+[submodule "extmod/ubleperipheral"]
+	path = extmod/ubleperipheral
+	url = https://github.com/jp-96/ubleperipheral.git
